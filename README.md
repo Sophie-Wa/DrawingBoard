@@ -1,4 +1,4 @@
-# Java GUI画板
+# DrawingBoard
 **主要思路：  
 本程序主要使用Circle，Line等类对Shape类的继承，和Shape类多态实现  
 在传递参数时，直接使用Shape，可以实现所有图形公用画图，拖动，改变属性等方法  
